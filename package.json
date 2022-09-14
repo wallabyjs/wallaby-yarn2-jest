@@ -1,0 +1,10 @@
+{
+  "name": "wallaby-yarn2-jest",
+  "packageManager": "yarn@3.2.3",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^29.0.3"
+  }
+}
